@@ -6,6 +6,7 @@ public class GooglePageTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is my first code");
+System.out.println("This is my second code");
 
 	}
 
